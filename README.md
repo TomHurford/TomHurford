@@ -1,4 +1,4 @@
-# Tom Hurford
+
 ## About me
 
 I am currently a Junior Software Developer at [Cervus Defence](https://www.cervusdefence.com/) where I am working on many of their current projects. I am going to be studying Computer Science MSci at Kings College London starting in September 2021. I developed a strong interest in programming and software development during my A-levels and my current year placement, and I am keen to explore a future career in the software industry. 
