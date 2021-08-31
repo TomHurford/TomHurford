@@ -21,6 +21,7 @@ I have technical experience in:
 - Figma and other design services
 - Adobe Premier Pro (Video Editing)
 - Jira and Confluence 
+- Learning Java
 
 I have previously had work experience at:
 - Rolls Royce
