@@ -11,6 +11,7 @@ In 2019 I successfully applied for, fundraised and participated in the British E
 
 I have technical experience in:
 - Docker
+- Java
 - Python
 - C#
 - VueJS
@@ -21,13 +22,14 @@ I have technical experience in:
 - Figma and other design services
 - Adobe Premier Pro (Video Editing)
 - Jira and Confluence 
-- Learning Java
 
 I have previously had work experience at:
 - Rolls Royce
 - Evolve Dynamics
 - Quilter Cheviott
 - IID Architects
+- Cervus Defence
+- Reed's School (Practical Computer Science Mentor to A-Level Students)
 
 ## Project Ideas
 
