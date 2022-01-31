@@ -21,15 +21,18 @@ I have technical experience in:
 - Linux
 - Figma and other design services
 - Adobe Premier Pro (Video Editing)
-- Jira and Confluence 
+- Jira, Confluence and Bitbucket
+- Git
+
+I have been employed at:
+- Cervus Defence
+- Reed's School (Practical Computer Science Mentor to A-Level Students)
 
 I have previously had work experience at:
 - Rolls Royce
 - Evolve Dynamics
 - Quilter Cheviott
 - IID Architects
-- Cervus Defence
-- Reed's School (Practical Computer Science Mentor to A-Level Students)
 
 ## Project Ideas
 
